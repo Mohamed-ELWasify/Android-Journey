@@ -25,7 +25,7 @@ I'm Mohamed, and this repository documents my progress as I learn Android Develo
 ## 📅 Progress
 
 - ✅ Repository Created
-- ⬜ Day 01 - Environment Setup
+- ✅ Day 01 - Environment Setup
 - ⬜ Day 02 - Kotlin Basics
 - ⬜ Day 03 - Variables & Data Types
 - ⬜ Day 04 - Conditions

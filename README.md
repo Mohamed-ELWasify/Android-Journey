@@ -2,18 +2,25 @@
 
 Welcome to my Android development journey!
 
-I'm documenting my progress as I learn Android Development using Kotlin and Android Studio.
+I'm Mohamed, and this repository documents my progress as I learn Android Development from scratch using Kotlin and Android Studio.
 
 ## 🎯 Goals
 
-- Learn Kotlin
+- Learn Kotlin Programming
 - Master Android Studio
 - Build real Android applications
 - Learn MVVM Architecture
 - Work with Room Database
-- Use Retrofit for APIs
+- Consume REST APIs using Retrofit
 - Learn Firebase
 - Publish my first app on Google Play
+
+## 🛠 Tech Stack
+
+- Kotlin
+- Android Studio
+- Git
+- GitHub
 
 ## 📅 Progress
 
@@ -24,15 +31,10 @@ I'm documenting my progress as I learn Android Development using Kotlin and Andr
 - ⬜ Day 04 - Conditions
 - ⬜ Day 05 - Loops
 
----
+## 📌 Projects
 
-## 🛠 Tech Stack
-
-- Kotlin
-- Android Studio
-- Git
-- GitHub
+Projects will be added here as I progress through my learning journey.
 
 ---
 
-> "Small progress every day is better than no progress."
+> "Consistency beats intensity."
